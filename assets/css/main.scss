@@ -548,6 +548,11 @@ li.hashed-tag {
     td img {
       max-width: none;
     }
+    th img {
+      max-width: none;
+      width: 800px;
+      height: auto;
+    }
     b,
     strong {
       font-weight: 600;
